@@ -1,5 +1,6 @@
 # databaseApplication
-This is the demo of the application build in java.
+Database application in Javafx
+
 ![Screenshot](Loginscreen.png)
 
 ![Screenshot](dashboard.png)
